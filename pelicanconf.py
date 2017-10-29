@@ -59,11 +59,15 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = 'pelican-bootstrap3'
+THEME = './pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cosmo'
 
-PLUGIN_PATHS = ['../pelican-utils/pelican-plugins']
+# Theme stuff
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['render_math',
+           'i18n_subsites',   ## For Bootstrap
            'twitter_bootstrap_rst_directives',
            'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
