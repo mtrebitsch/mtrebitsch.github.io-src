@@ -20,7 +20,7 @@ Current position
 Education
 =========
 2012 – 2016
-    Ph. D. student at the `Observatoire de Lyon`_, with Jérémy Blaizot
+    Ph. D. student at the `Observatoire de Lyon`_, with Jérémy Blaizot. Download my thesis `here <https://tel.archives-ouvertes.fr/tel-01402895>`_.
 
 2010 – 2012
      Master's Degree in Physics at the `ENS Lyon`_, with honours
@@ -67,20 +67,32 @@ Publications
 ============
 Articles
 --------
+High-redshift galaxies and black holes in the eyes of JWST: a population synthesis model from infrared to X-rays
+    | Marta Volonteri, Amy Reines, Hakim Atek, Danien P. Stark and *Maxime Trebitsch*
+    | Accepted to the *Astrophysical Journal* (`arXiv: 1704.00753 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv170400753V&link_type=ABSTRACT>`_)
+
+Fluctuating feedback-regulated escape fraction of ionizing radiation in low-mass, high-redshift galaxies
+    | *Maxime Trebitsch*, Jérémy Blaizot, Joakim Rosdahl, Julien Devriendt and Adrianne Slyz
+    | `Monthly Notices of the Royal Astronomical Society, vol 470, Issue 1, 1 September 2017 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017MNRAS.470..224T&link_type=ABSTRACT>`_
+
 Lyman-α blobs: polarization arising from cold accretion
     | *Maxime Trebitsch*, Anne Verhamme, Jérémy Blaizot and Joakim Rosdahl
-    | *Submitted to Astronomy & Astrophysics*
-    |
+    | `Astronomy & Astrophysics, Volume 593, id.A122 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016A&A...593A.122T&link_type=ABSTRACT>`_
  
 Ultralight axions: Degeneracies with massive neutrinos and forecasts for future cosmological observations
-    | David J. E. Marsh, Edward Macaulay, *Maxime Trebitsch* and Pedro G. Ferreira,
+    | David J. E. Marsh, Edward Macaulay, *Maxime Trebitsch* and Pedro G. Ferreira
     | `Physical Review D, vol. 85, Issue 10, id. 103514 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012PhRvD..85j3514M&link_type=ABSTRACT>`_
 
 Conference proceedings
 ----------------------
+Feedback regulated escape of ionising radiation from high redshift galaxies
+    | *Maxime Trebitsch* and Jérémy Blaizot
+    | `SF2A-2016: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp.407-410 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016sf2a.conf..407T&link_type=ABSTRACT>`_
+
+
 Modeling small galaxies during the Epoch of Reionisation
     | *Maxime Trebitsch*, Jérémy Blaizot and Joakim Rosdahl
-    | SF2A-2015: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, (to appear)
+    | `SF2A-2015: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp.105-108 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015sf2a.conf..105T&link_type=ABSTRACT>`_
 
 Lyman-α blobs: polarization arising from cold accretion
     | *Maxime Trebitsch*, Anne Verhamme, Jérémy Blaizot and Joakim Rosdahl
@@ -91,6 +103,10 @@ Conferences
 ===========
 Talks
 -----
+* Do AGNs enhance the escape of ionizing radiation from high redshift dwarf galaxies?; *YAGN Meeting*, 2017, Teruel
+* Do AGNs enhance the escape of ionizing radiation from high redshift dwarf galaxies?; *RAMSES User Meeting*, 2017, Nice
+* Modeling the sources of reionization; *ICAP Seminar*, 2016, Paris
+* Feedback regulated escape of ionising photons from high redshift galaxies; *RAMSES User Meeting*, 2016, Paris
 * Feedback-regulated escape of ionising radiation from high redshift galaxies; *Journées SF2A (French Astronomy Meeting)*, 2016, Lyon.
 * Escape of ionising radiation from the first galaxies; *Galaxy Evolution Seminar*, 2016, Oxford.
 * Escape of ionising radiation from the first galaxies; *RAMSES User Meeting*, 2015, Oxford.
@@ -98,6 +114,8 @@ Talks
 
 Posters
 -------
+* `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *EWASS*, 2017, Prague.
+* `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *Galaxy Evolution Across Time*, 2017, Paris.
 * `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *Exploring the Universe with JWST*, 2015, ESTEC.
 * `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *First stars, first galaxies, first black holes*, 2015, Gröningen.
 * `Lyman-α blobs: polarization arising from cold accretion <{filename}/pdf/201406paris.pdf>`_; *Journées SF2A (French Astronomy Meeting)*, 2014, Paris.
