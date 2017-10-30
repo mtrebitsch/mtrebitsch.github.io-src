@@ -60,7 +60,7 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 THEME = './pelican-themes/pelican-bootstrap3'
-# BOOTSTRAP_THEME = 'cosmo'
+BOOTSTRAP_THEME = 'cosmo'
 
 # Theme stuff
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
